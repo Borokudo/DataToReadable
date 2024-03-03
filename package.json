@@ -1,0 +1,19 @@
+{
+    "name": "readable-datetime",
+    "version": "1.0.0",
+    "description": "Tranform data to the readable format",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["datetime", "readable", "format"],
+    "author": "Borokudo",
+    "license": "ISC",
+    "dependencies": {
+      "moment": "^2.29.1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Borokudo/DataToReadable.git"
+    }
+  }
